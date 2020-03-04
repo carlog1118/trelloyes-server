@@ -1,0 +1,10 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"Card with id f65e03ec-1ccc-41c8-9ede-b381872785a4 created","level":"info"}
+{"message":"Header is required","level":"error"}
+{"message":"Header is required","level":"error"}
+{"message":"List with id a54925ed-6658-4d14-b409-eb2025ea454e created","level":"info"}
+{"message":"List with id 1 deleted.","level":"info"}
+{"message":"List with id 1 not found.","level":"error"}
+{"message":"Card with id 3a26e4d0-e2ea-4cc5-8b64-48bb140ebf02 created","level":"info"}
+{"message":"Card with id 3a26e4d0-e2ea-4cc5-8b64-48bb140ebf02 not found.","level":"error"}
